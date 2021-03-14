@@ -14,7 +14,7 @@ This sample Jetpack Compose application is part of #AndroidStudyJams session abo
 
 ## :camera_flash: Screenshots
 
-<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">&emsp;<img src="/results/screenshot_3.png" width="260">&emsp;
+<img src="/results/sceenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">&emsp;<img src="/results/screenshot_3.png" width="260">&emsp;
 
 ## License
 
